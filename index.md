@@ -2,4 +2,4 @@
 
 Første variant av sida. Sjå [meg](./focus.md)
 
-![trallala](/img/meg.png)
+![trallala](/img/meg.jpeg)
