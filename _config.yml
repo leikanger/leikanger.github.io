@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+name: Per R. L.
+description: Information about me and my PhD project.
+markdown: kramdown
+highlighter: rouge
