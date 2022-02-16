@@ -6,6 +6,7 @@ draft: true
 
 --------------------------------------------
  
+# Per R. Leikanger
 ![Per R. L.](/img/meg.jpeg)
 
 ##### 2011 -- Kavli Institute for Systems Neuroscience/ Biology of Memory, NTNU
