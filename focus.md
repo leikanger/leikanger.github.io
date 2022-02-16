@@ -10,6 +10,12 @@ draft: true
 
 # Per R. Leikanger
 
+A short note about the author; Born 1985 in Norway, interest and passionately curious, in love with nature, music, and life. 
+A digital artist, interested in creating beautiful solutions rather than quick-fixes. 
+My youth was filled with outdoors life, music from the 70s, programming in C++, and skiing.
+
+My primary aim is to understand learning and autonmy to a level by which an autonomous agent can be implemented.
+
 ##### 2011 -- Kavli Institute for Systems Neuroscience/ Biology of Memory, NTNU
   In 2011 I had the pleasure of studying under May-Britt and Edvard Moser, 3 years 
   before members of the lab shared the 2014 Nobel Prize in Physiology and Medicine with John O'Keefe.  
