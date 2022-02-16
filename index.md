@@ -1,5 +1,3 @@
-# Hello World
+# The neoRL network approach to autonomous navigation
 
-Første variant av sida. Sjå [meg](./focus.md)
-
-![trallala](/img/meg.jpeg)
+This page is intended as a repository of information regarding the neoRL project and autonomous navigation by NRES-oriented RL agents.
