@@ -6,8 +6,9 @@ draft: true
 
 --------------------------------------------
  
-# Per R. Leikanger
 ![Per R. L.](/img/meg.jpeg)
+
+# Per R. Leikanger
 
 ##### 2011 -- Kavli Institute for Systems Neuroscience/ Biology of Memory, NTNU
   In 2011 I had the pleasure of studying under May-Britt and Edvard Moser, 3 years 
