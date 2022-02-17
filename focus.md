@@ -10,10 +10,6 @@ draft: true
 
 # Per R. Leikanger
 
-A short note about the author; Born 1985 in Norway, interest and passionately curious, in love with nature, music, and life. 
-A digital artist, interested in creating beautiful solutions rather than quick-fixes. 
-My youth was filled with outdoors life, music from the 70s, programming in C++, and skiing.
-
 My primary aim is to understand learning and autonmy to a level by which an autonomous agent can be implemented.
 
 ##### 2011 -- Kavli Institute for Systems Neuroscience/ Biology of Memory, NTNU
@@ -32,7 +28,7 @@ My primary aim is to understand learning and autonmy to a level by which an auto
   - 2014 -- Senior Software Developer, Integrated Bridge, Rolls-Royce Maritime  
   - 2015 -- Head of R&D, Signal Processing, Breivoll Inspection Technologies
   
-##### 2017 -- 2021 PhD Candidate: __Autonomous Navigation by Online Learning__
+##### 2017 -- 2021 PhD Candidate: __Autonomous Navigation by (the animal and) the machine.__
   With the initial goal of autonomous ships learning navigation by reactive
   reinforcement learning, I soon found it necessary to do foundational RL
   research instead of maritime technology.
