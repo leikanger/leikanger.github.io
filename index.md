@@ -1,4 +1,5 @@
-[main](index)     [about the author](./about_the_author.md)
+[[main](index)]        [[about the author](./about_the_author.md)]
+
 -------------------------------------------------------------------
 
 # The neoRL network approach to autonomous navigation
