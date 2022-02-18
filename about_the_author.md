@@ -1,10 +1,11 @@
 ---
-title: "Background"
+title: "about the author; Per R. Leikanger"
 date: 2019-10-30T20:45:53+01:00
 draft: true
 ---
 
---------------------------------------------
+[main](index)     [about the author](./about_the_author.md)
+-------------------------------------------------------------------
  
 ![Per R. L.](/img/meg.jpeg)
 
