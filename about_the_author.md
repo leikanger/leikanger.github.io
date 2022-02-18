@@ -15,9 +15,9 @@ draft: true
 My primary aim is to understand learning and autonmy to a level by which an autonomous agent can be implemented.
 
 ##### 2011 -- Kavli Institute for Systems Neuroscience/ Biology of Memory, NTNU
-  In 2011 I had the pleasure of studying under May-Britt and Edvard Moser, 3 years 
-  before members of the lab shared the 2014 Nobel Prize in Physiology and Medicine with John O'Keefe.  
-  This was done in parallel with completing my MSc degree in Engineering Cybernetics.
+  In 2011 I had the pleasure of studying under May-Britt and Edvard Moser, years 
+  before the Mosers shared the 2014 Nobel Prize in Physiology and Medicine with John O'Keefe.  
+  This was done on the side of completing my MSc degree in Engineering Cybernetics.
   
 ##### 2012 -- Engineering Cybernetics: Biomedical Robotics, NTNU 
   Master's degree at Norwegian University of Technology and Science (NTNU).  
@@ -33,9 +33,11 @@ My primary aim is to understand learning and autonmy to a level by which an auto
 ##### 2017 -- 2021 PhD Candidate: __Autonomous Navigation by (the animal and) the machine.__
   With the initial goal of autonomous ships learning navigation by reactive
   reinforcement learning, I soon found it necessary to do foundational RL
-  research instead of maritime technology.
-  Combining theory from engineering cybernetics and what I learned at the Kavli
-  institute for systems neuroscience, my approach is distrbuted.
+  research instead of maritime technology. 
+  I soon found ti necessary to go deeper and explore early behaviorism invent my own 
+  approach inspired by the great accomplishments from AI.
+  %% Combining theory from engineering cybernetics and what I learned at the Kavli
+  %% institute for systems neuroscience, my approach is distrbuted.
   
   First half of 2020: Academic visitor with Richard Sutton at RLAI lab @ UoA.
   
