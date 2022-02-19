@@ -35,7 +35,7 @@ My primary aim is to understand learning and autonmy to a level by which an auto
   reinforcement learning, I soon found it necessary to do foundational RL
   research instead of maritime technology. 
   Going back to the basic principles from psychology and neuroscience, I have explored a 
-  distributed approach to purposive autonomy.
+  distributed approach to purposive autonomy in behavioral AI.
   
   First half of 2020: Academic visitor with Richard Sutton at RLAI lab @ UoA.
   
