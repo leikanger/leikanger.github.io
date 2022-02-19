@@ -34,17 +34,8 @@ My primary aim is to understand learning and autonmy to a level by which an auto
   With the initial goal of autonomous ships learning navigation by reactive
   reinforcement learning, I soon found it necessary to do foundational RL
   research instead of maritime technology. 
-  Going back to the basic principles from psychology and neuroscience, a novel approach
-  to autonomous navigation is proposed. 
-  %%I soon found it necessary to go deeper and explore early behaviorism invent my own 
-  %%approach inspired by the great accomplishments from AI.
-  %% Combining theory from engineering cybernetics and what I learned at the Kavli
-  %% institute for systems neuroscience, my approach is distrbuted.
-  [//]: # (er dette kommentert ut?)
-  [//]: <> (er dette kommentert ut?)
-  <!--- 
-    kommentar?
-  -->
+  Going back to the basic principles from psychology and neuroscience, I have explored a 
+  distributed approach to purposive autonomy.
   
   First half of 2020: Academic visitor with Richard Sutton at RLAI lab @ UoA.
   
