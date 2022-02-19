@@ -1,4 +1,4 @@
-[[main](index)]        [[about the author](./about_the_author.md)]
+[[neoRL](index)]        [[about the author](./about_the_author.md)]
 
 -------------------------------------------------------------------
 
