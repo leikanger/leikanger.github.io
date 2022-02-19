@@ -8,7 +8,7 @@ This page is intended as a repository of information regarding the neoRL project
 Publications and my thesis is available as arxive preprints, made available as html5 versions under 'publications'.
 
 ## Public defense
-[TBA] The public defense will be accessible for everybody on June 3, at noon (GMT-1). Link to the stream will appear here once desided.
+[TBA] The public defense will be accessible for everybody on June 3, at noon (GMT+1). Link to the stream will appear here once desided.
 
 ## Publications
 
