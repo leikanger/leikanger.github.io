@@ -19,3 +19,7 @@ The neoRL framework is the result of an autonomous PhD; the thesis will soon be 
 [Decomposing the Prediction Problem](https://ar5iv.org/html/2106.15868)
 
 
+---------------------------------------
+
+
+![video](https://youtu.be/ZyvxaMnm92s)
