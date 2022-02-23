@@ -4,7 +4,7 @@ date: 2019-10-30T20:45:53+01:00
 draft: true
 ---
 
-[ [neoRL](index) ]     [ [about the author](./about_the_author.md) ]
+[ [neoRL](index) ]   [ [demonstration](demonstrations.md) ]     [ [about the author](./about_the_author.md) ]
 
 -------------------------------------------------------------------
  
