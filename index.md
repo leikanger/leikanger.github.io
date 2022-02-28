@@ -20,5 +20,6 @@ The neoRL framework is the result of an autonomous PhD; the thesis will soon be 
 
 [Navigating Conceptual Space; A new take on AGI](https://ar5iv.org/abs/2202.09646)
 
+[Towards neoRL networks; the emergence of purposive graphs](https://ar5iv.org/abs/2202.12622)
 
 ---------------------------------------
