@@ -14,7 +14,8 @@ Agent design is illustrated in the figure on the left.
 
 ----
 
-For more elements of interest, the navigation challenge becomes more difficult -- here mastered by a PC + OVC collaborative neoRL agent with trivial desires.
+For more Elements-of-Interest, the navigation challenge becomes difficult;
+here mastered by a PC + OVC collaborative neoRL agent with trivial desires -- agent desire is directly governed by the location of EoI in each NRES modality.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZyvxaMnm92s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
