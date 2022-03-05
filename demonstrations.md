@@ -10,7 +10,7 @@ Learning and execution happens in real-time in the following videos, with the ag
 A video of recursive desire, a demonstration of category II autonomy. 
 Agent design is illustrated in the figure on the left.
 
-<iframe src="https://player.vimeo.com/video/684966970?h=aec1b78a82&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="310" height="310" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="The neoRL framework for autonomous navigation."></iframe>
+<iframe src="https://player.vimeo.com/video/684966970?h=aec1b78a82&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="400" height="400" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="The neoRL framework for autonomous navigation."></iframe>
 
 ----
 
