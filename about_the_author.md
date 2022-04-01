@@ -31,11 +31,11 @@ My primary aim is to understand learning and autonmy to a level by which an auto
   - 2015 -- Head of R&D, Signal Processing, Breivoll Inspection Technologies
   
 ##### 2017 -- 2021 PhD Candidate: __Autonomous Navigation by (the animal and) the machine.__
-  With the initial goal of autonomous ships learning navigation by reactive
-  reinforcement learning, I soon found it necessary to do foundational RL
-  research instead of maritime technology. 
-  Going back to the basic principles from psychology and neuroscience, I have explored a 
-  distributed approach to purposive autonomy in behavioral AI.
+  A deep investigation in the discrepancies between digital "autonomy" and biological agents for autonomous navigation
+  uncovered how genuine autonomy is plausible via distributed approaches to RL. 
+  Purposive networks, where desires formed based on experience can be used as setpoints for other neoRL modules,
+  allows for genuine category II autonomous navigation. 
+  The AI equivalent to neobehaviorism and Tolman's purposive behaviorism.
   
   First half of 2020: Academic visitor with Richard Sutton at RLAI lab @ UoA.
   
