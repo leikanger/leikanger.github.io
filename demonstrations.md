@@ -3,11 +3,6 @@
 -----------------------------------------------------
 
 ## Real-time learning videos
-
-Research on autonomous navigation can be difficult due to the variety of challenges involved; 
-    realistic navigation challenges easily becomes an example of one set of operational parameters.
-I have found that the best way to study general and transferable capabilities for autonomous navigation is to study general challenges in Euclidean space. 
-
 The following demonstrations are examples of autonomous navigation in the allocentric
 [WaterWorld](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/waterworld.html) environment (not the simpler egocentric javascript-version). 
 Learning and effectuation happens in real-time while navigation in the following videos.
