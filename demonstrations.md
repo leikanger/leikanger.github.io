@@ -36,8 +36,8 @@ Agent design is illustrated in the figure on the left of this page.
 ### Externally supplied desires.
 
 For more Elements-of-Interest (EoI), the navigation challenge becomes difficult;
-here mastered by a PC + OVC collaborative neoRL agent with trivial desires -- agent desire is directly governed by the location of EoI in each NRES modality.
-With all EoI being algorithmically defined, this demonstration is limited to category I autonomy.
+here mastered by a PC + OVC collaborative neoRL agent with 0th order desires -- where agent desire is directly governed by the location of EoI in each NRES modality.
+With all EoI being algorithmically defined, agent autonomy is limited to being category I autonomy.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZyvxaMnm92s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
