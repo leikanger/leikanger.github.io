@@ -22,8 +22,8 @@ The unreasonable efficiency of recurrent purposive neoRL networks is demonstrate
 an effect that is explored further in the [contribution](https://ar5iv.org/abs/2202.12622) to RLDM-2022.
 
 ## Public defense
-The neoRL framework is a result of a five year research project, a PhD project with a public online defense in June.
-Time and link TBA though this site.
+The neoRL framework is a result of a five year long research project; my PhD project is planned for public online defense, early June.
+Time and link for the public online event will be announced here, medio May.
 
 [TBA] The public defense will be accessible for everybody on *June 3, at noon (GMT+1)*. Link to the stream will appear here once desided.
 
