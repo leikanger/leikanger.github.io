@@ -36,3 +36,11 @@ With all EoI being algorithmically defined, agent autonomy is limited to being c
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZyvxaMnm92s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Autonomous desires for 8EoI
+
+For comparison, navigation by autonomous desires is possible, according to the illustration on the left.
+8 elements of interest makes this challenge difficult for a human pilot, requiring constant vigilance for longer periods of time.
+The neoRL agent is capable of proficient navigation without becoming tired. 
+See [Towards neoRL networks; the emergence of purposive graphs](https://ar5iv.org/abs/2202.12622)
+
+<iframe src="https://player.vimeo.com/video/696086825?h=9de753f18f&amp;title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="496" height="504" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Category II autonomy by neoRL graphs."></iframe>
