@@ -1,10 +1,21 @@
-[ [neoRL](index) ]   [ [demonstration](demonstrations.md) ]     [ [about the author](./about_the_author.md) ]
+[ [neoRL](index.md) ]   [ [demonstration](demonstrations.md) ]     [ [about the author](./about_the_author.md) ]
 
 -----------------------------------------------------
 
 ## Real-time learning videos
-Autonomous navigation happens in the allocentric [WaterWorld](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/waterworld.html) environment (not the simpler egocentric javascript-version). 
-Learning and execution happens in real-time in the following videos, with the agent being initiated at the beginning of the run (video) with no precursors other than what is described in the above article. 
+
+Research on autonomous navigation can be difficult due to the variety of challenges involved; 
+    realistic navigation challenges easily becomes an example of one set of operational parameters.
+I have found that the best way to study general and transferable capabilities for autonomous navigation is to study general challenges in Euclidean space. 
+
+The following demonstrations are examples of autonomous navigation in the allocentric
+[WaterWorld](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/waterworld.html) environment (not the simpler egocentric javascript-version). 
+Learning and effectuation happens in real-time while navigation in the following videos.
+The agent is initiated at the beginning of the run (the video) with no precursors other than what is described in the listed [articles](./index.md). 
+
+Note that the WaterWorld environment involves temporal dynamics due to intertial mechanics, best described as ``driving on ice''.
+
+
 
 ------------------------------------------
 
@@ -24,9 +35,9 @@ Agent design is illustrated in the figure on the left of this page.
 
 ### Externally supplied desires.
 
-For more Elements-of-Interest, the navigation challenge becomes difficult;
+For more Elements-of-Interest (EoI), the navigation challenge becomes difficult;
 here mastered by a PC + OVC collaborative neoRL agent with trivial desires -- agent desire is directly governed by the location of EoI in each NRES modality.
-However, in this experiment, all EoI are supplied by the environment.
+With all EoI being algorithmically defined, this demonstration is limited to category I autonomy.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZyvxaMnm92s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

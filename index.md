@@ -1,4 +1,4 @@
-[ [neoRL](index) ]   [ [demonstration](demonstrations.md) ]     [ [about the author](./about_the_author.md) ]
+[ [neoRL](index.md) ]   [ [demonstration](demonstrations.md) ]     [ [about the author](./about_the_author.md) ]
 
 -------------------------------------------------------------------
 
