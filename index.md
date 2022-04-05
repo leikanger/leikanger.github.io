@@ -9,15 +9,12 @@ exploring how neural representation of Euclidean space (NRES) could establish le
 The basic idea of decomposing the prediction problem for RL is presented in 
 [Decomposing the Prediction Problem](https://ar5iv.org/html/2106.15868), demonstrating how NRES-oriented RL (neoRL) can make autonomous navigation plausible in technology.
 
-Modern cognitive neuroscience further considers reasoning and intelligence as a navigational challenge, 
-with experimental results indicating that ideas and concepts can be viewed as locations and vectors in conceptual space.
+Mondern cognitive neuroscience sees reasoning and intelligence as a navigational challenge in a cognitive space.
 In my second [article](https://ar5iv.org/abs/2202.09646), presented at the Conference series in Artificial General Intelligence, 
-the neoRL agent is challenged based on Leslie Kaelbling's opinion piece in [Science](https://www.science.org/doi/abs/10.1126/science.aaz7597) (2020).
-The neoRL framework is general across parameter spaces, efficient enough for real-time autonomy, and incremental and compositional for additional spaces,
-    allowing for multi-modal navigation by neoRL agents.
+    the neoRL agent is demonstrated to be general across parameter spaces, sufficiently efficient for real-time autonomy, and incremental and compositional in value space.
 
-Finally, scheduled for presentation at the conference on Reinforcement Learning and Decision Making 2022, the neoRL framework is demonstrated for category II autonomy.
-Networks of neoRL nodes are demonstrated for neoRL nodes capable of latent learning, capable of forming autonomous desires based on experienced inferences.
+Scheduled for presentation at [RLDM 2022](https://www.rldm.org), the neoRL framework is demonstrated to be capable of category II autonomy.
+Networks of neoRL nodes are demonstrated, where the output of one node is used as setpoint for another, demonstrating how this drastically improves navigational performance.
 The unreasonable efficiency of recurrent purposive neoRL networks is demonstrated under ``[demonstrations](demonstrations.md)'',
 an effect that is explored further in the [contribution](https://ar5iv.org/abs/2202.12622) to RLDM-2022.
 
