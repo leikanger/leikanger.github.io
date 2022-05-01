@@ -4,10 +4,9 @@
 
 ## Real-time learning videos
 The following demonstrations are examples of autonomous navigation in the allocentric
-[WaterWorld](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/waterworld.html) environment (not the simpler egocentric javascript-version). 
-Learning and effectuation happens in real-time while navigation in the following videos.
-The agent is initiated at the beginning of the run (the video) with no precursors other than what is described in the listed [articles](./index.md). 
-
+[WaterWorld](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/waterworld.html) environment (not the simpler egocentric javascript-version);
+    controlling acceleration in 2 directions, the agent is set to catch green entities while avoiding red.
+The agent is initiated at the beginning of the video, with no precursors other than what is described in the listed [articles](./index.md). 
 Note that the WaterWorld environment involves temporal dynamics due to intertial mechanics, best described as ``driving on ice''.
 
 
@@ -32,13 +31,13 @@ Agent design is illustrated in the figure on the left of this page.
 
 For more Elements-of-Interest (EoI), the navigation challenge becomes difficult;
 here mastered by a PC + OVC collaborative neoRL agent with 0th order desires -- where agent desire is directly governed by the location of EoI in each NRES modality.
-With all EoI being algorithmically defined, agent autonomy is limited to being category I autonomy.
+With all EoI being algorithmically defined, this video demonstrates an agent with category I autonomy.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZyvxaMnm92s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Autonomous desires for 8EoI
 
-For comparison, navigation by autonomous desires is possible, according to the illustration on the left.
+For comparison, navigation by autonomous desires is possible, i.e., a full category II autonomy according to the illustration to my left.
 8 elements of interest makes this challenge difficult for a human pilot, requiring constant vigilance for longer periods of time.
 The neoRL agent is capable of proficient navigation without becoming tired. 
 See [Towards neoRL networks; the emergence of purposive graphs](https://ar5iv.org/abs/2202.12622)
