@@ -30,7 +30,7 @@ My primary aim is to understand learning and autonmy to a level by which an auto
   - 2014 -- Senior Software Developer, Integrated Bridge, Rolls-Royce Maritime  
   - 2015 -- Head of R&D, Signal Processing, Breivoll Inspection Technologies
   
-##### 2017 -- 2021 PhD Candidate: __Autonomous Navigation by (the animal and) the machine.__
+##### 2017 -- 2022 PhD Candidate: __Autonomous Navigation by (the animal and) the machine.__
   A deep investigation in the discrepancies between digital "autonomy" and biological agents for autonomous navigation
   uncovered how genuine autonomy is plausible via distributed approaches to RL. 
   Purposive networks, where desires formed based on experience can be used as setpoints for other neoRL modules,
