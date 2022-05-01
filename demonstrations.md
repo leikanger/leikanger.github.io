@@ -7,6 +7,7 @@ The following demonstrations are examples of autonomous navigation in the alloce
 [WaterWorld](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/waterworld.html) environment (not the simpler egocentric javascript-version);
     controlling acceleration in 2 directions, the agent is set to catch green entities while avoiding red.
 The agent is initiated at the beginning of the video, with no precursors other than what is described in the listed [articles](./index.md). 
+
 Note that the WaterWorld environment involves temporal dynamics due to intertial mechanics, best described as ``driving on ice''.
 
 
