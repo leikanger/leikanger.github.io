@@ -13,7 +13,7 @@ draft: true
 # Per R. Leikanger
 
 Autonomous researcher on autonomous navigation. 
-My primary aim is to understand learning and autonmy to a level by which an autonomous agent can be implemented.
+My primary aim is to understand learning and autonomy to a level by which an autonomous agent can be implemented.
 I do this in the intersection between computational neuroscience and behavioral AI, 
     combining modern results on the neuroscience of navigation and psychology of learning with modern reinforcement learning in AI.
 See my [articles](index.md) for how this is possible.
