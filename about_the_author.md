@@ -14,9 +14,8 @@ draft: true
 
 Autonomous researcher on autonomous navigation. 
 My primary aim is to understand learning and autonomy to a level by which an autonomous agent can be implemented.
-I do this in the intersection between computational neuroscience and behavioral AI, 
-    combining modern results on the neuroscience of navigation and psychology of learning with modern reinforcement learning in AI.
-See my [articles](index.md) for how this is possible.
+My approach is to combine modern RL from AI with modern results from the neuroscience of navigation.
+See my [publications](index.md) for how autonomous navigation is possible in technology.
 
 
 I can also be reached per [email](per.leikanger@uit.no) or on [LinkedIn](https://www.linkedin.com/in/per-leikanger).
