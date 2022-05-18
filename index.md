@@ -18,13 +18,6 @@ Networks of neoRL nodes are demonstrated, where the output of one node is used a
 The unreasonable efficiency of recurrent purposive neoRL networks is demonstrated under ``[demonstrations](demonstrations.md)'',
 an effect that is explored further in the [contribution](https://ar5iv.org/abs/2202.12622) to RLDM-2022.
 
-## Public defense
-The neoRL framework is a result of a five year long research project; my PhD project is planned for public online defense, early June.
-Time and link for the public online event will be announced here, medio May.
-
-[TBA] The public defense will be accessible for everybody on *June 3, at noon (GMT+1)*. Link to the stream will appear here once desided.
-
-
 # Publications
 
 ---------------------------------------
@@ -36,5 +29,15 @@ Time and link for the public online event will be announced here, medio May.
 [Towards neoRL networks; the emergence of purposive graphs](https://ar5iv.org/abs/2202.12622)
 
 ---------------------------------------
+
+
+## Public presentation and PhD defense
+The neoRL framework is a result of my PhD project, a project that is planned to have a public online defence.
+Time and link for the public online event will be announced here as early as possible. 
+
+
+[TBA] The public defense will be accessible for everybody through this page. 
+Unfortunately, UiT will not be able to organize this defence before summer.
+In the meanwhile, do not hesistate to make contact for more information or a private presentation.
 
 
