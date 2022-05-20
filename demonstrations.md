@@ -11,7 +11,7 @@ The agent is initiated at the beginning of the video, with no precursors other t
 *All is learned* –– every aspect of the blue-dot's control is self-governed. 
 Autonomous navigation is made possible by acquired experience from off-policy learning.
 Off-policy learning allows for learning by demonstration, something that would further improve performance.
-Observe the real-time improvement by skipping to the end of the video!
+Observe the real-time improvement by comparing initial and final proficiency in each video!
 
 Note that the WaterWorld environment involves temporal dynamics due to intertial mechanics, best described as `` driving on ice''.
 Results from the WaterWorld environment is directly applilcable to maritime autonomy.
