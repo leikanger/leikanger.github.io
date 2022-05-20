@@ -25,6 +25,11 @@ In the experiment shown in the attached video, OVC projection of desire is used 
 Two desires govern the PC module and three desires govern the OVC module, with both nodes giving output to agent value function.
 Agent design is illustrated in the figure on the left of this page.
 
+All is learned –– every aspect of the blue-dot's control is self-governed. 
+Autonomous navigation is made possible by acquired experience from off-policy learning.
+Off-policy learning allows for learning by demonstration, something that would further improve performance.
+Observe the real-time improvement by skipping to the end of the video!
+
 <iframe src="https://player.vimeo.com/video/685172019?h=bf434220e7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="496" height="504" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="A neoRL agent governed by recurrent desires."></iframe>
 
 ----
