@@ -8,7 +8,8 @@ The following demonstrations are examples of autonomous navigation in the alloce
     controlling acceleration in 2 directions, the agent is set to catch green entities while avoiding red.
 The agent is initiated at the beginning of the video, with no precursors other than what is described in the listed [articles](./index.md). 
 
-Note that the WaterWorld environment involves temporal dynamics due to intertial mechanics, best described as ``driving on ice''.
+Note that the WaterWorld environment involves temporal dynamics due to intertial mechanics, best described as `` driving on ice''.
+Results from the WaterWorld environment is directly applilcable to maritime autonomy.
 
 
 
