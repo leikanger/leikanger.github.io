@@ -9,9 +9,9 @@ exploring neural representation of Euclidean space (NRES) for emulating online a
 The foundation of decomposing the prediction problem for RL is presented in 
 [Decomposing the Prediction Problem](https://ar5iv.org/html/2106.15868), demonstrating NRES-oriented RL (neoRL) for autonomous navigation.
 
-Modern cognitive neuroscience further explores how reasoning itself is expressed by NRES in the brain, after findings of how this process activates NRES.
+Modern cognitive neuroscience further explores how reasoning itself can be a navigational challenge, after indications on how concepts activate NRES structures.
 My second [article](https://ar5iv.org/abs/2202.09646), presented at the Conference series in Artificial General Intelligence, 
-    explores how neoRL is capable of navigation across multiple parameter spaces, allowing for general and efficient learning.
+    explores how neoRL is capable of navigation across multiple parameter spaces, allowing for general and efficient navigation in high-dimensional space.
 
 Scheduled for presentation at [RLDM 2022](https://www.rldm.org), the neoRL framework is demonstrated to be capable of category II autonomy.
 Networks of neoRL nodes are demonstrated, where the output of one node is used as setpoint for another -- giving a substantially improved navigational performance.
