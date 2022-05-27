@@ -5,18 +5,18 @@
 # The neoRL network for autonomy 
 
 The neoRL approach to navigational autonomy is based on state representation in the mammalian brain, 
-exploring how neural representation of Euclidean space (NRES) could establish learning capabilities needed for online autonomous navigation in technology.
-The basic idea of decomposing the prediction problem for RL is presented in 
-[Decomposing the Prediction Problem](https://ar5iv.org/html/2106.15868), demonstrating how NRES-oriented RL (neoRL) can make autonomous navigation plausible in technology.
+exploring neural representation of Euclidean space (NRES) for emulating online autonomous navigation in technology.
+The foundation of decomposing the prediction problem for RL is presented in 
+[Decomposing the Prediction Problem](https://ar5iv.org/html/2106.15868), demonstrating NRES-oriented RL (neoRL) for autonomous navigation.
 
-Mondern cognitive neuroscience sees reasoning and intelligence as a navigational challenge in a cognitive space.
-In my second [article](https://ar5iv.org/abs/2202.09646), presented at the Conference series in Artificial General Intelligence, 
-    the neoRL agent is demonstrated to be general across parameter spaces, sufficiently efficient for real-time autonomy, and incremental and compositional in value space.
+Modern cognitive neuroscience further explores how reasoning itself is expressed by NRES in the brain, after findings of how this process activates NRES.
+My second [article](https://ar5iv.org/abs/2202.09646), presented at the Conference series in Artificial General Intelligence, 
+    explores how neoRL is capable of navigation across multiple parameter spaces, allowing for general and efficient learning.
 
 Scheduled for presentation at [RLDM 2022](https://www.rldm.org), the neoRL framework is demonstrated to be capable of category II autonomy.
-Networks of neoRL nodes are demonstrated, where the output of one node is used as setpoint for another, demonstrating how this drastically improves navigational performance.
+Networks of neoRL nodes are demonstrated, where the output of one node is used as setpoint for another -- giving a substantially improved navigational performance.
 The unreasonable efficiency of recurrent purposive neoRL networks is demonstrated under ``[demonstrations](demonstrations.md)'',
-an effect that is explored further in the [contribution](https://ar5iv.org/abs/2202.12622) to RLDM-2022.
+an effect that is explored further in my [submission](https://ar5iv.org/abs/2202.12622) to RLDM-2022.
 
 # Publications
 
