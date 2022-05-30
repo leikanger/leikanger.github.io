@@ -28,7 +28,7 @@ Desire vectors can establish desires for deeper neoRL nodes.
 Agent design is illustrated in the figure on the left of this page.
 
 <iframe src="https://player.vimeo.com/video/685172019?h=bf434220e7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="496" height="504" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="A neoRL agent governed by recurrent desires."></iframe>
-
+(Objective: Catch green dots, avoid red, until there are no green left –– upon which the board is reset. All behavior is learned – autonomous navigation)
 ----
 
 ### Externally supplied desires.
