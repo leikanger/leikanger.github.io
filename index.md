@@ -13,10 +13,20 @@ Modern cognitive neuroscience further explores how reasoning itself can be a nav
 My second [article](https://ar5iv.org/abs/2202.09646), presented at the Conference series in Artificial General Intelligence, 
     explores how neoRL is capable of navigation across multiple parameter spaces, allowing for general and efficient navigation in high-dimensional space.
 
-Scheduled for presentation at [RLDM 2022](https://www.rldm.org), the neoRL framework is demonstrated to be capable of category II autonomy.
-Networks of neoRL nodes are demonstrated, where the output of one node is used as setpoint for another -- giving a substantially improved navigational performance.
+As presented at [RLDM 2022](https://www.rldm.org), the neoRL framework is demonstrated to be capable of category II autonomy.
+Networks of neoRL nodes can establish deeper desires, where the output of one node is used as setpoint for another -- giving a substantially improved navigational performance.
 The unreasonable efficiency of recurrent purposive neoRL networks is demonstrated under ``[demonstrations](demonstrations.md)'',
 an effect that is explored further in my [submission](https://ar5iv.org/abs/2202.12622) to RLDM-2022.
+
+# Public presentation and PhD defense
+The neoRL framework is a result of my PhD project, a project that is planned to have a public online defence the **july 5th at noon [GMT]**, 14:00 [Norway], 08:00 [Montreal], 06:00 [Alberta].
+Link for the stream will be announced here soon.
+
+
+[TBA] The public defense will be awailable for everybody through this page. 
+More information will be published soon.
+
+---------------------------------------
 
 # Publications
 
@@ -30,14 +40,6 @@ an effect that is explored further in my [submission](https://ar5iv.org/abs/2202
 
 ---------------------------------------
 
-
-## Public presentation and PhD defense
-The neoRL framework is a result of my PhD project, a project that is planned to have a public online defence the *july 5th at noon [GMT]*, 14:00 [Norway], 08:00 [Montreal], 06:00 [Alberta].
-Link for the stream will be announced here soon.
-
-
-[TBA] The public defense will be awailable for everybody through this page. 
-More information will be published soon.
 
 
 
