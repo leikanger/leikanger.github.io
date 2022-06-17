@@ -32,12 +32,12 @@ an effect that is explored further in my [submission](https://ar5iv.org/abs/2202
 
 
 ## Public presentation and PhD defense
-The neoRL framework is a result of my PhD project, a project that is planned to have a public online defence.
-Time and link for the public online event will be announced here as early as possible. 
+The neoRL framework is a result of my PhD project, a project that is planned to have a public online defence the *july 5th at noon [GMT]*, 14:00 [Norway], 08:00 [Montreal], 06:00 [Alberta].
+Link for the stream will be announced here soon.
 
 
-[TBA] The public defense will be accessible for everybody through this page. 
-Unfortunately, UiT will not be able to organize this defence before summer.
-In the meanwhile, do not hesistate to make contact for more information or a private presentation.
+[TBA] The public defense will be awailable for everybody through this page. 
+More information will be published soon.
+
 
 
