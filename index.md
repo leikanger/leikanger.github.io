@@ -54,6 +54,7 @@ Tuesday, July 5th. Stream available through  [this link](https://uit.cloud.panop
 
 [Towards neoRL networks; the emergence of purposive graphs](https://ar5iv.org/abs/2202.12622)
 
+**My PhD thesis**: [Autonomous Navigation in (the Animal and) the Machine](https://hdl.handle.net/10037/25518)
 ---------------------------------------
 
 
