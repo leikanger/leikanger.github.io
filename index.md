@@ -37,10 +37,10 @@ The neoRL framework is a result of my PhD project, planned for public online def
 **The thesis** is available [here](https://hdl.handle.net/10037/25518)
 
 **Trial lecture**: *“Option discovery framework & other possible techniques to make autonomous navigation a reality in land and maritime transportation.”*
-Monday, July 4th, stream available throught [this link](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c51d2604-921c-4a6a-ba9e-aeba00e2c5af) 
+Monday, July 4th, same time of day as Tuesday's presentation. Stream available throught [this link](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c51d2604-921c-4a6a-ba9e-aeba00e2c5af) 
 
 **Main presentation** of neoRL autonomous navigation (main defence):  *“Autonomous Navigation in (the Animal and) the Machine.”*
-Tuesday, July 5th, stream available through  [this link](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d2161208-fdad-424c-9142-aeba00e35cdd)
+Tuesday, July 5th. Stream available through  [this link](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d2161208-fdad-424c-9142-aeba00e35cdd)
 
 ---------------------------------------
 
