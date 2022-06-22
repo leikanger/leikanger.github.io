@@ -45,7 +45,8 @@ an effect that is explored further in my [submission](https://ar5iv.org/abs/2202
 
 [Towards neoRL networks; the emergence of purposive graphs](https://ar5iv.org/abs/2202.12622)
 
-PhD thesis: [Autonomous Navigation in (the Animal and) the Machine](https://hdl.handle.net/10037/25518)
+**PhD thesis:** [Autonomous Navigation in (the Animal and) the Machine](https://hdl.handle.net/10037/25518)
+
 ---------------------------------------
 
 
