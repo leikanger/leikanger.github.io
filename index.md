@@ -2,21 +2,6 @@
 
 -------------------------------------------------------------------
 
-# Public presentation/ PhD defense
-**Doina Precup** (DeepMind Montreal) and **Harm van Seijen** (Microsoft Research) found my presentation to be satisfactory for a PhD in computer science. 
-Both sessions have been recorded and are available through the following links.
-
-**Trial lecture**: *“Option discovery framework & other possible techniques to make autonomous navigation a reality in land and maritime transportation.”*
-Monday, July 4th, recording available at [this link](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c51d2604-921c-4a6a-ba9e-aeba00e2c5af) 
-
-
-**Defence**:  *“Autonomous Navigation in (the Animal and) the Machine.”*
-Tuesday, July 5th, recording available at  [this link](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d2161208-fdad-424c-9142-aeba00e35cdd)
-
-**The full thesis** is available [here](https://hdl.handle.net/10037/25518)
-
----------------------------------------
-
 # The neoRL network for autonomy 
 
 The neoRL approach to navigational autonomy is based on state representation in the mammalian brain, 
@@ -52,4 +37,19 @@ an effect that is explored further in my [submission](https://ar5iv.org/abs/2202
 
 
 
+
+# PhD defense
+**Doina Precup** (DeepMind Montreal) and **Harm van Seijen** (Microsoft Research) found this work to be satisfactory for a PhD in computer science. 
+Both sessions have been recorded and are available through the following links.
+
+**Trial lecture**: *“Option discovery framework & other possible techniques to make autonomous navigation a reality in land and maritime transportation.”*
+Monday, July 4th, recording available at [this link](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c51d2604-921c-4a6a-ba9e-aeba00e2c5af) 
+
+
+**Defence**:  *“Autonomous Navigation in (the Animal and) the Machine.”*
+Tuesday, July 5th, recording available at  [this link](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=d2161208-fdad-424c-9142-aeba00e35cdd)
+
+**The full thesis** is available [here](https://hdl.handle.net/10037/25518)
+
+---------------------------------------
 
