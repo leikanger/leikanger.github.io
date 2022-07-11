@@ -3,8 +3,8 @@
 -------------------------------------------------------------------
 
 # Public presentation/ PhD defense
-**Doina Precup** (DeepMind Montreal) and **Harm van Seijen** (Microsoft Research) found my presentation to be satisfacory for a PhD in computer science. 
-Both sessions have been recorded and are awailable through the following links.
+**Doina Precup** (DeepMind Montreal) and **Harm van Seijen** (Microsoft Research) found my presentation to be satisfactory for a PhD in computer science. 
+Both sessions have been recorded and are available through the following links.
 
 **Trial lecture**: *“Option discovery framework & other possible techniques to make autonomous navigation a reality in land and maritime transportation.”*
 Monday, July 4th, recording available at [this link](https://uit.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c51d2604-921c-4a6a-ba9e-aeba00e2c5af) 
