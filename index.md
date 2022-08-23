@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------
 
-# PhD defense -- neoRL.net
+# PhD defense -- __neoRL.net__
 **Doina Precup** (DeepMind Montreal) and **Harm van Seijen** (Microsoft Research) found this work to be satisfactory for a PhD in computer science. 
 Both sessions have been recorded and are available through the following links.
 
