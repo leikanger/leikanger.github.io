@@ -18,7 +18,7 @@ My approach is to combine modern RL from AI with modern results from the neurosc
 See my [publications](index.md) for how autonomous navigation is possible in technology.
 
 
-Please do not hesitate to reach out: per [email](mailto:per.leikanger@uit.no) or via [LinkedIn](https://www.linkedin.com/in/per-leikanger).
+Please do not hesitate to reach out: per [email](mailto:leikange@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/per-leikanger).
 
 ##### 2011 --- Kavli Institute for Systems Neuroscience/ Biology of Memory, NTNU
   In 2011 I had the pleasure of studying under May-Britt and Edvard Moser, years 
