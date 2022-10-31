@@ -2,8 +2,8 @@
 
 -------------------------------------------------------------------
 
-# PhD defense -- __neoRL.net__
-**Doina Precup** (DeepMind Montreal) and **Harm van Seijen** (Microsoft Research) found the the neoRL project to be satisfactory for a PhD in computer science. 
+# PhD in Autonomous Navigation -- __neoRL.net__
+**Doina Precup** (DeepMind Montreal) and **Harm van Seijen** (Microsoft Research) found the neoRL to be an innovative contribution to the field of AI, accepting my **PhD in computer science**. 
 
 **The full thesis** is available [here](https://hdl.handle.net/10037/25518)
 
