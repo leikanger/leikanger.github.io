@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------
 
-# PhD in Autonomous Navigation
+# PhD --- Autonomous Navigation
 **Doina Precup** (DeepMind Montreal) and **Harm van Seijen** (Microsoft Research) found the neoRL to be an innovative contribution to the field of AI, accepting my **PhD in computer science**. 
 
 **The full thesis** is available [here](https://hdl.handle.net/10037/25518)
