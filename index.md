@@ -10,7 +10,7 @@
 ---------------------------------------
 
 
-# The neoRL network for autonomy 
+# Summary: neoRL networks
 
 The neoRL approach to navigational autonomy is based on state representation in the mammalian brain, 
 exploring neural representation of Euclidean space (NRES) for emulating online autonomous navigation in technology.
