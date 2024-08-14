@@ -12,14 +12,6 @@ Bare i fjor bevilget Innovasjon Norge 7,1 MRD, med meldinger om nær dobling i 2
 **neoRL.net** R&D services tilbyr også vår hjelp for prosjektgjennomføring i form av prosjektledelse og 
 	-utføresle innen aspekt som omhandler digitalisering, programmering, eller KI.
 	
-## Prosjektplanlegging, soft funding og gjennomføring.
-Vi kan hjelpe deg sette igang innovative R&D prosjekt for ditt selskap.
-Som del av dette tilbyr vi hjelp med å utforme prosjektbeskrivelse, planlegge arbeidspakker, utforme budsjett til
-innsending av endelig søknad. Aktører for soft funding vi har erfaring med involverer Innovasjon Norge, Forskningsrådet 
-og Horizon Europe. I noen tilfeller kan vi også bidra med søknader for allerede påbegynte prosjekt til **Skattefun**, en
-ordning som gir direkte skattelette for godkjendte innovasjonsprosjekt.
-Takontakt for meir informasjon om statsstøtteregulativet og korleiv vi kan hjelpe ditt R&D eventyr.
-
 ## Prosjektutførelse og teknisk gjennomføring. 
 Flere av våre ansatte har bakgrunn fra teknisk kybernetikk og/eller KI, derav to med doktograd i digitalisering og
 autonomi. Vi kan hjelpe til med teknisk gjennomføring så vel som soft funding og prosjektleiing. 
