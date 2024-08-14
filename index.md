@@ -16,7 +16,7 @@ og Horizon Europe. I noen tilfeller kan vi også bidra med søknader for allered
 ordning som gir direkte skattelette for godkjendte innovasjonsprosjekt.
 
 ## Tilbud om bistand
-Vi utvider teamet og ønsker å hjelpe andre innovative R&D prosjekter med soft funding og digitaliseringsprosjekt.
+Vi utvider våre fokusområder og ønsker å hjelpe andre innovative R&D prosjekter med soft funding og digitaliseringsprosjekt.
 Veldig sannsynlig kan vi hjelpe ditt prosjekt å utløse innovasjonsmidler, i tillegg til å løse de vanskeligste
 oppgavene for utførelsen. Vi hjelper med soft funding, prosjektutforming og prosjektleiing, samt teknologi for 
 innovasjonsprosjekt i digitalisering. Vår [R&D manager](RnD_manager.md) tar gjerne en samtale om korleis vi kan hjelpe dere
