@@ -18,7 +18,7 @@ Våre spesialiteter involverer programmering og utforming av linux/unix systemer
 Vi kan bidra i programmeringsspråka **C++, Python, ROS, Julia, Rust, Matlab**, og har erfaring med systemer for KI, GPT,
 digital signalbehandling, nettverksprogrammering, og sanntidsprogrammering.
 
-Kort oppsummert tilbyr vi hjelp med å utforme prosjektet på en måte som vil gi soft funding rett i kassa, samtidig som
-vi tilbyr hjelp med gjennomføringa og utvikling av teknologi som er innovativ nok til å kvalifisere for statsstøtte.
+Kort oppsummert tilbyr vi hjelp med å utforme prosjektet på en måte som vil gi soft funding, samtidig som vi 
+tilbyr hjelp med gjennomføringa og utvikling av teknologi som er innovativ nok til å kvalifisere for statsstøtte.
 Ta kontakt for korleis vi kan hjelpe, både med tanke på prosjektutvikling og søking, så vel som gjennomføring og
 utvikling av innovativ ny teknologi som akkurat di gruppe behøver.
