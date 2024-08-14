@@ -6,17 +6,14 @@
 Innovasjonsselskapet __neoRL.net AS__  starta i 2022 etter levert doktorgrad i autonom navigasjon 2022.
 Støtta av Innovasjon Norge fra dag en, utvikler vi distribuerte autonomialgoritmer for roboter og maritim autonomi.
 Utover dette hjelper vi andre oppnå støtte til R&D innovasjon, bare i 2024 er våre aktiviteter ansvarlig for over 
-**20MNOK** i godkjendt støttebeløp for kunde. Vi kan hjelpe deg oppnå samme for dine innovative R&D prosjekt.
+20MNOK i godkjendt støttebeløp for kunde. Vi kan hjelpe deg oppnå samme for dine innovative R&D prosjekt.
 
-## Kjernekompetanse og muligheter
-Vi erfarer at vår kompetanse mtp. middleware og software utvikling samt KI og digitalisering kan hjelpe andre.
-Doktograden til våre to grunnleggere reflekterer kjernekompetansen for neoRL.net R&D services:
-	prosjektleiing i digitalisering; 
-	digital situasjonsforståelse ved KI; 
-	autonom navigasjon og utfordringer med Human Factors; 
-	utvikling av sanntidssystemer og distribuerte algoritmer.
-Sammen har teamet i __neoRL.net__ inngående kunnskap til autonomi og R&D prosjektstyring for digitalisering, i tillegg
-til innsikt i statstøtteregulativet og grensene for soft funding.
+## Prosjektplanlegging, soft funding og gjennomføring.
+Vi kan hjelpe deg sette igang innovative R&D prosjekt for ditt selskap.
+Som del av dette tilbyr vi hjelp med å utforme prosjektbeskrivelse, planlegge arbeidspakker, utforme budsjett til
+innsending av endelig søknad. Aktører for soft funding vi har erfaring med involverer Innovasjon Norge, Forskningsrådet 
+og Horizon Europe. I noen tilfeller kan vi også bidra med søknader for allerede påbegynte prosjekt til **Skattefunn**, en
+ordning som gir direkte skattelette for godkjendte innovasjonsprosjekt.
 
 ## Tilbud om bistand
 Vi utvider teamet og ønsker å hjelpe andre innovative R&D prosjekter med soft funding og digitaliseringsprosjekt.
