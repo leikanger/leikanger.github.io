@@ -5,11 +5,11 @@
 # R&D Services
 Som innovasjonsselskap har __neoRL.net__ 100% dekning for egne utviklingsprosjekt,
 	og vi hjelper nå andre innovasjonsselskap tilegne seg innovasjonsmidler.
-I 2024 har vi så langt stått for over 20MNOK i soft funding til en av våre kunder.
+I 2024 har vi så langt stått for over __20MNOK__ i soft funding til en av våre kunder.
 Vi inviterer nå andre innovasjonsselskap til å ta kontakt for tilsvarende eventyr, 
 	og tilbyr vår hjelp til utforming av prosjektbeskrivelse; budsjett og søknad for soft funding; 
 	samt, teknisk bistand og R&D for de mest utfordrende deler av prosjektet.
-Bare i fjor bevilget Innovasjon Norge 7,1 MRD, med meldinger om nær dobling i 2024.
+Bare i fjor bevilget Innovasjon Norge 7,1 MRD, med meldinger om nær __dobling i 2024__.
 	
 ## Prosjektutførelse og teknisk gjennomføring. 
 Flere av våre ansatte har bakgrunn fra teknisk kybernetikk og/eller KI, derav to med doktograd i digitalisering og
