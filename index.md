@@ -5,25 +5,24 @@
 # Om neoRL.net AS
 Innovasjonsselskapet __neoRL.net AS__  starta i 2022 etter levert doktorgrad i autonom navigasjon 2022.
 Støtta av Innovasjon Norge fra dag en, utvikler vi distribuerte autonomialgoritmer for roboter og maritim autonomi.
-Utover dette hjelper vi andre oppnå støtte til R&D innovasjon, i tillegg til kompetanse og soft funding.
-Bare i 2024 er våre aktiviteter ansvarlig for over **20MNOK** i godkjendt støttebeløp for vår andre kunde.
-Vi ønsker å tilby andre innovative R&D-bedrifter hjelp med prosjektutvikling og hjelp med soft funding.
+Utover dette hjelper vi andre oppnå støtte til R&D innovasjon, bare i 2024 er våre aktiviteter ansvarlig for over 
+**20MNOK** i godkjendt støttebeløp for kunde. Vi kan hjelpe deg oppnå samme for dine innovative R&D prosjekt.
 
 ## Kjernekompetanse og muligheter
-Kjerneteknologien **neoRL** er inspirert av biologisk (autonom) navigasjon kombinert med RL i AI, implementert med
-	tusenvis av paralelle algoritmer for autonom navigasjon (Leikanger, PhD 2022).
 Vi erfarer at vår kompetanse mtp. middleware og software utvikling samt KI og digitalisering kan hjelpe andre.
 Doktograden til våre to grunnleggere reflekterer kjernekompetansen for neoRL.net R&D services:
 	prosjektleiing i digitalisering; 
 	digital situasjonsforståelse ved KI; 
 	autonom navigasjon og utfordringer med Human Factors; 
 	utvikling av sanntidssystemer og distribuerte algoritmer.
-Sammen har teamet i __neoRL.net__ inngående kunnskap til autonomi og R&D prosjektstyring for digitalisering.
+Sammen har teamet i __neoRL.net__ inngående kunnskap til autonomi og R&D prosjektstyring for digitalisering, i tillegg
+til innsikt i statstøtteregulativet og grensene for soft funding.
 
 ## Tilbud om bistand
 Vi utvider teamet og ønsker å hjelpe andre innovative R&D prosjekter med soft funding og digitaliseringsprosjekt.
-Veldig sannsynlig kan vi hjelpe gjøre ditt prosjekt å utløse innovasjonsmidler, i tilllegg til å løse de vanskeligste
-oppgavene for utførelsen. aVi hjelper gjerne med soft funding og prosjektutforming og prosjektleiing for 
-innovasjonsprosjekt for digitalisering. Ta kontakt med vår [R&D manager](RnD_manager.md) for samtale om korleis vi 
-sammen kan overgå økonomiske eller digitale utfordringer for di gruppe.
+Veldig sannsynlig kan vi hjelpe ditt prosjekt å utløse innovasjonsmidler, i tillegg til å løse de vanskeligste
+oppgavene for utførelsen. Vi hjelper med soft funding, prosjektutforming og prosjektleiing, samt teknologi for 
+innovasjonsprosjekt i digitalisering. Vår [R&D manager](RnD_manager.md) tar gjerne en samtale om korleis vi kan hjelpe dere
+overgå økonomiske eller digitale utfordringer for deres innovative R&D prosjekt.
+
 
