@@ -2,6 +2,8 @@
 
 -----------------------------------------------------
 
+TODO Ta bort denne, og/eller bytt den ut med noko betre. TODO 
+
 ## Real-time learning videos
 The following demonstrations are examples of autonomous navigation in the allocentric
 [WaterWorld](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/waterworld.html) environment (not the simpler egocentric javascript-version);
