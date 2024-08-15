@@ -23,7 +23,7 @@ Vår CAO får hovudansvaret for nye FoU-partnerar; ring Per RL om vi kan hjelpe 
   Hyke develops autonomous passenger shuttles, utilizing waterways for urban transit.
   Head of R&D and project manager for autonomy projects and ventures involving digitalization of situational awareness. 
 
-### 2017 - 2022  --- PhD in Computer Science, first version of __HAL__
+### 2017 - 2022  --- PhD in Computer Science: neoRL autonomy.
   Real-time learning algorithms for autonomous navigation. 
   Research and development of a distributed algorithm for Reinforcement Learning for Euclidean spaces.
   _First half of 2020: Academic visitor with Richard Sutton._
