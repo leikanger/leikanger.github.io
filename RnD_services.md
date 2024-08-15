@@ -15,10 +15,11 @@ _store sjanser for støtte_ for ditt innovasjonsprosjekt – om prosjekt og søk
 Flere av våre ansatte har bakgrunn fra teknisk kybernetikk og/eller KI, derav to med doktograd i digitalisering og
 autonomi. Vi kan hjelpe til med teknisk gjennomføring så vel som prosjektutforming og soft funding. 
 Våre spesialfelt involverer programmering og utforming av linux/unix system for middleware eller bruk av KI.
-Vi skriv flytande i programmeringsspråka **C++, Python, Julia, Rust, Matlab**, samt utvikling i _Docker_ og _ROS_. 
+Vi skriv flytande i programmeringsspråka **C++, Python, Julia, Rust, Matlab**, samt utvikling i **Docker** og **ROS**. 
 Våre ansatte har erfaring med KI, skreddersøm av GPT/LLM, digital signalbehandling, nettverks- og sanntidsprogrammering.
 
-Kort oppsummert kan vi hjelpe med å forme prosjektet til noko som vil gi soft funding, samt med gjennomføring og
-utvikling av ny teknologi og FoU-løp som utløyser innovasjonsstøtte.
-Ring vår [R&D manager](./RnD_manager.md) for å finne ut korleis ditt prosjekt kan bli mottakar av innovasjonsmidlar,
-og korleis __neoRL.net__ R&D Services kan hjelpe for prosjektutvikling, gjennomføring, samt utvikling av krevande teknologi.
+Kort oppsummert kan vi hjelpe ditt prosjekt å kvalifisere for soft funding, samt bistå med gjennomføring og
+utvikle ny teknologi for å la ditt FoU-løp utløyse innovasjonsmidlar.
+Ring vår [R&D manager](./RnD_manager.md) for korleis __neoRL.net__ R&D Services kan hjelpe ditt prosjekt med
+prosjektuvikling, soft funding, gjennomføring, samt utvikling av grensesprengande teknologi.
+
