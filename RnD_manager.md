@@ -26,7 +26,7 @@ Vår CAO får hovudansvaret for nye FoU-partnerar; ring Per RL om vi kan hjelpe 
 ### 2017 - 2022  --- PhD in Computer Science, first version of __HAL__
   Real-time learning algorithms for autonomous navigation. 
   Research and development of a distributed algorithm for Reinforcement Learning for Euclidean spaces.
-  _First half of 2020: Academic visitor with Richard Sutton himself._
+  _First half of 2020: Academic visitor with Richard Sutton._
   
 ### 2012 - 2016  --- R&D Engineer in the industry
   - 2012 -- R&D Engineer, Ultrasound Imaging, Archer
