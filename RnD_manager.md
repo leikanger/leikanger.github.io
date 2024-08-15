@@ -13,8 +13,7 @@ draft: true
 # Per R. Leikanger -- Chief Autonomy Officer 
 Innovatør bak neoRL-algoritma for sanntids interaksjonslæring for autonom navigasjon, med inngåande kjennskap til
 indre hyperteknologi, som mekanismane bak LLM, styringssystem for robotikk, autonom navigasjon, samt prosjektleiingserfaring.
-Vår CAO får hovudansvaret for nye FoU-partnerar; ta direkte kontakt med Per for korleis vi kan hjelpe ditt prosjekt:
-Kontakt: [email](mailto:leikange@gmail.com) eller [LinkedIn](https://www.linkedin.com/in/per-leikanger), eller hyggelig samtale per telefon **400 40 814**.
+Vår CAO får hovudansvaret for nye FoU-partnerar; ring Per RL om vi kan hjelpe ditt prosjekt: [email](mailto:leikange@gmail.com) eller [LinkedIn](https://www.linkedin.com/in/per-leikanger), eller hyggelig samtale per telefon **400 40 814**.
 
 ### 2024 - --->  --- CAO @ neoRL.net
   Chief Autonomy Officer for neoRL.net, with prime responsibility for our autonomy stack and neoRL R&D sevices. 
