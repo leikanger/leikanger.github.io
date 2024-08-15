@@ -20,6 +20,7 @@ Vår CAO får hovudansvaret for nye FoU-partnerar; ring Per RL om vi kan hjelpe 
   Great records for securing soft funding for Hyke, NORCE, and for internal neoRL projects.
 
 ### 2023 - 2024  --- Head of R&D @ Hydrolift Smart City Ferries AS
+  Hyke develops autonomous passenger shuttles, utilizing waterways for urban transit.
   Head of R&D and project manager for autonomy projects and ventures involving digitalization of situational awareness. 
 
 ### 2017 - 2022  --- PhD: __Autonomous Navigation by (the animal and) the machine.__
