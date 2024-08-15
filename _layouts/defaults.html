@@ -20,6 +20,7 @@
           <img src="img/neoRLnet.png" alt="Logo" />
 
         {% if site.logo %}
+          <img src="{{site.logo | relative_url}}" alt="neoRL networks" />
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>

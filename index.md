@@ -11,8 +11,8 @@ I tillegg har vi begynt hjelpe andre oppnå støtte til R&D innovasjon; berre i 
 ## Vi kan hjelpe ditt prosjekt.
 Vi kan hjelpe deg sette igang innovative R&D prosjekt for ditt selskap.
 Som del av dette kan vi hjelpe med utforming av prosjektbeskrivelse, planlegge arbeidspakkar og budsjett, til
-innsending av endelig søknad og seinare gjennomføring. Vi har erfaring med soft funding frå Innovasjon Norge, Forskningsrådet 
-og Horizon Europe. Vi kan også bistå med søknadar for allerede påbegynte prosjekt til **Skattefunn**, ei ordning som gir
+innsending av endelig søknad og seinare gjennomføring. Vi har erfaring med soft funding frå **Innovasjon Norge**, Forskningsrådet 
+og **Horizon Europe**. Vi kan også bistå med søknadar for allerede påbegynte prosjekt til **Skattefunn**, ei ordning som gir
 direkte skattelette for godkjendte innovasjonsprosjekt (19% tilbakebetalt).
 
 ## Tilbud om bistand
