@@ -29,9 +29,9 @@ Vår CAO får hovudansvaret for nye FoU-partnerar; ring Per RL om vi kan hjelpe 
   First half of 2020: Academic visitor with _Richard Sutton_ at RLAI lab @ UoA.
   
 ### 2012 - 2016  --- R&D Engineer in the industry
-  - 2012 -- R&D Engineer, Ultrasound Imaging, Archer -- the Well Company
-  - 2014 -- Senior Software Developer, Integrated Bridge, Rolls-Royce Maritime  
-  - 2015 -- Head of R&D, Signal Processing, Breivoll Inspection Technologies
+  - 2012 -- R&D Engineer, Ultrasound Imaging, Archer
+  - 2014 -- Senior Software Developer, Rolls-Royce Maritime  
+  - 2015 -- Head of R&D, Signal Processing, BIT
   
 ### 2012 --- Engineering Cybernetics: Biomedical Robotics, NTNU 
     
