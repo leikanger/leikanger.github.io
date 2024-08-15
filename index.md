@@ -17,7 +17,8 @@ direkte skattelette (19% tilbakebetalt) for godkjendte innovasjonsprosjekt.
 
 ## Tilbud om bistand
 Høgst sannsynlig kan vi hjelpe _ditt prosjekt_ til å utløyse innovasjonsmidlar, og vi kan bistå med å løyse utfordrande
-digitaliseringsoppgåver knytt til gjennomføringa. Vi kan hjelpe deg med soft funding, prosjektleiing, samt utvikle
-teknologien som kan løyse dei mest komplekse oppgåvene. Ring vår [R&D manager](RnD_manager.md) for ein samtale om korleis vi kan hjelpe.
+digitaliseringsoppgåver knytt til gjennomføringa. Sjå [R&D services](RnD_services.md) for oversikt over teknisk bistand.
+Vi kan hjelpe deg med soft funding, prosjektleiing, samt utvikle teknologien som kan løyse dei mest komplekse oppgåvene. 
+Ring vår [R&D manager](RnD_manager.md) for ein samtale om korleis vi kan hjelpe.
 
 
