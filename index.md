@@ -2,7 +2,8 @@
 
 -------------------------------------------------------------------
 
-# Om neoRL.net AS
+![neoRL.net](/img/neoRLnet.png)
+
 Innovasjonsselskapet __neoRL.net AS__ starta i 2022 etter levert doktorgrad i computer science / teknologi for autonom navigasjon.
 Støtta av Innovasjon Norge fra dag en, utviklar vi distribuerte autonomialgoritmar for roboter og maritim autonomi.
 I tillegg har vi begynt hjelpe andre oppnå støtte til R&D innovasjon; berre i 2024 er våra bidrag ansvarleg for over
