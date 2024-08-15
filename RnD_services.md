@@ -15,7 +15,7 @@ _store sjanser for støtte_ for ditt innovasjonsprosjekt – om prosjekt og søk
 Flere av våre ansatte har bakgrunn fra teknisk kybernetikk og/eller KI, derav to med doktograd i digitalisering og
 autonomi. Vi kan hjelpe til med teknisk gjennomføring så vel som prosjektutforming og soft funding. 
 Våre spesialfelt involverer programmering og utforming av linux/unix system for middleware eller bruk av KI.
-Vi skriv flytande i programmeringsspråka **C++, Python, Julia, Rust, Matlab**, samt utvikling i Docker og ROS. 
+Vi skriv flytande i programmeringsspråka **C++, Python, Julia, Rust, Matlab**, samt utvikling i _Docker_ og _ROS_. 
 Våre ansatte har erfaring med KI, skreddersøm av GPT/LLM, digital signalbehandling, nettverks- og sanntidsprogrammering.
 
 Kort oppsummert kan vi hjelpe med å forme prosjektet til noko som vil gi soft funding, samt med gjennomføring og
