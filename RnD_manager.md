@@ -39,6 +39,4 @@ Kontakt: [email](mailto:leikange@gmail.com) eller [LinkedIn](https://www.linkedi
   - 2015 -- Head of R&D, Signal Processing, Breivoll Inspection Technologies
   
 ### 2012 --- Engineering Cybernetics: Biomedical Robotics, NTNU 
-  Master's degree at Norwegian University of Technology and Science (NTNU).  
-  "Development and assessment of a novel model for artificial neural networks"
     
