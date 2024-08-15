@@ -18,18 +18,14 @@ Kontakt: [email](mailto:leikange@gmail.com) eller [LinkedIn](https://www.linkedi
 
 ### 2024 - --->  --- CAO @ neoRL.net
   Chief Autonomy Officer for neoRL.net, with prime responsibility for our autonomy stack and neoRL R&D sevices. 
-  Comprehensive experience on project development on digitalization and autonomous techenology. 
   Great records for securing soft funding for Hyke, NORCE and internal neoRL projects.
 
 ### 2023 - 2024  --- Head of R&D @ Hydrolift Smart City Ferries AS
   Head of R&D and project manager for autonomy projects and ventures involving digitalization of situational awareness. 
-  Per RL is still involved with Hyke through neoRL.net as hired project manager and lead
-  programmer for digitalization projects and projects toward autonomous navigation.
 
 ### 2017 - 2022  --- PhD: __Autonomous Navigation by (the animal and) the machine.__
-  A deep investigation in the discrepancies between digital "autonomy" and biological agents for autonomous navigation
-  uncovered how genuine autonomy is plausible via distributed approaches to RL. 
-  Computer science and computing science, developing HAL v1.0
+  Groundbreaking new research on real-time learning algorithms for autonomous navigation. 
+  Research and development of a distributed algorithm for Reinforcement Learning for Euclidean spaces.
   
   First half of 2020: Academic visitor with Richard Sutton at RLAI lab @ UoA.
   
