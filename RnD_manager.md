@@ -11,17 +11,15 @@ draft: true
 ![Per R. L.](/img/meg.jpeg)
 
 # Per R. Leikanger -- Chief Autonomy Officer 
-Our CAO is the lead architect of the neoRL system for real-time interaction learning, 
-	and responsible for managing our R&D contacts and partners.
-If you have an innovative R&D project, please contact our CAO for a first interview and consideration of how se can help.
-
-Please reach out per [email](mailto:leikange@gmail.com) or [LinkedIn](https://www.linkedin.com/in/per-leikanger),
-	or per telephone **400 40 814** for arranging our first meeting.
+Innovatør bak neoRL-algoritma for sanntids interaksjonslæring for autonom navigasjon, med inngåande kjennskap til
+indre hyperteknologi, som mekanismane bak LLM, styringssystem for robotikk, autonom navigasjon, samt prosjektleiingserfaring.
+Vår CAO får hovudansvaret for nye FoU-partnerar; ta direkte kontakt med Per for korleis vi kan hjelpe ditt prosjekt:
+Kontakt: [email](mailto:leikange@gmail.com) eller [LinkedIn](https://www.linkedin.com/in/per-leikanger), eller hyggelig samtale per telefon **400 40 814**.
 
 ### 2024 - --->  --- CAO @ neoRL.net
   Chief Autonomy Officer for neoRL.net, with prime responsibility for our autonomy stack and neoRL R&D sevices. 
   Comprehensive experience on project development on digitalization and autonomous techenology. 
-  Great records for sequring soft funding for Hyke, NORCE and internal neoRL projects.
+  Great records for securing soft funding for Hyke, NORCE and internal neoRL projects.
 
 ### 2023 - 2024  --- Head of R&D @ Hydrolift Smart City Ferries AS
   Head of R&D and project manager for autonomy projects and ventures involving digitalization of situational awareness. 
