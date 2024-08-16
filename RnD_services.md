@@ -10,7 +10,7 @@ Vi hjelper gjerne deg med å oppnå det samme:
 	vi kan bidra med utforming av prosjektbeskrivelse; 
 		budsjett og søknad om soft funding; 
 		samt teknisk bistand og med kompleks teknologi.
-La oss hjelpe ditt innovasjonsprosjekt bli fantastisk.
+La oss hjelpe ditt innovasjonsprosjekt bli grensesprengende.
 
 Avhengig av firmaets størrelse og prosjektets innovasjonsgrad kan ditt prosjekt få opp til **80% støttegrad** i soft funding.
 Vi hjelper navigere statsstøttedirektivet for mulige støttekilder som Innovasjon Norge, NFR, Skattefunn
