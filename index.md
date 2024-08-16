@@ -9,16 +9,15 @@ I tillegg har vi begynt hjelpe andre oppnå støtte til R&D innovasjon; berre i 
 20MNOK i godkjendt støttebeløp for kunde.
 
 ## Vi kan hjelpe ditt prosjekt.
-Vi kan hjelpe deg sette igang innovative R&D prosjekt for ditt selskap.
-Som del av dette kan vi hjelpe med utforming av prosjektbeskrivelse, planlegge arbeidspakkar og budsjett, til
-innsending av endelig søknad og seinare gjennomføring. Vi har erfaring med soft funding frå **Innovasjon Norge**, Forskningsrådet 
-og **Horizon Europe**. Vi kan også bistå med søknadar for allerede påbegynte prosjekt til **Skattefunn**, ei ordning som gir
-direkte skattelette (19% tilbakebetalt) for godkjendte innovasjonsprosjekt.
+Vi ønsker å hjelpe dere med innovative R&D prosjekt, med søknadsprosessen så vel som teknisk gjennnomføring.
+Utforming av prosjektbeskrivelse, planlegging av arbeidpakkar og budsjett, samt innsending av søknad:
+	vi har gode er faringer med **Innovasjon Norge**, Forskningsrådet, og **Horizon Europe**.
+Gjennom **Skattefunn** kan dere videre få skattelette (19% av prosjektkost) også for påbegynte prosjekt.
+La oss hjelpe deg utforme og gjennomføre teknologiinnovasjon/ benytt vår kunnskap om midler og teknologi.
 
 ## Tilbud om bistand
-Høgst sannsynlig kan vi hjelpe _ditt prosjekt_ til å utløyse innovasjonsmidlar, og vi kan bistå med å løyse utfordrande
-digitaliseringsoppgåver knytt til gjennomføringa. Sjå [R&D services](RnD_services.md) for oversikt over teknisk bistand.
-Vi kan hjelpe deg med soft funding, prosjektleiing, samt utvikle teknologien som kan løyse dei mest komplekse oppgåvene. 
-Ring vår [R&D manager](RnD_manager.md) for ein samtale om korleis vi kan hjelpe.
+Vi kan hjelpe ditt prosjekt på vegen til innovasjonsmidler, Skattefunn, og administrativ prosjektgjennomføring.
+Vi kan hjelpe ditt prosjekt med ny teknologi, digitalisering og KI, og teknologigjennomføring 
+Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for ein samtale om innovajsonsprosjekt.
 
 
