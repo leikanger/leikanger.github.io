@@ -6,8 +6,10 @@
 Vi kan hjelpe med innovasjonsstøtte og bedre prosjektgjennomføring.
 For eigne prosjekt har __neoRL.net__ nådd 100% funding for sine autonomiprosjekt;
 	i 2024 står vi videre ansvarlig for over __20MNOK__ i soft funding til ein av våre kundar.
-Vi hjelper med utforming av prosjektbeskriving; budsjett og søknad om soft funding; samt, teknisk bistand til utfordrande teknologi.
-Berre i fjor bevilga Innovasjon Norge over 7MRD til Norske innovasjonsprosjekt, med melding om __dobling i 2024__.
+Vi hjelper gjerne deg med å oppnå det samme:
+	vi kan bidra med utforming av prosjektbeskrivelse; 
+		budsjett og søknad om soft funding; 
+		samt teknisk bistand og med kompleks teknologi.
 La oss hjelpe ditt innovasjonsprosjekt med støtte og med gjennomføring og teknologikompetanse!
 
 Avhengig av firmaets størrelse eller prosjektets innovasjonsgrad kan ditt prosjekt få opp til **80% støttegrad** i soft funding.
