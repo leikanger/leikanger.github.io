@@ -20,6 +20,6 @@ La oss hjelpe dere navigere staststøtteregulativet og kvalifisere for soft fund
 Vi kan hjelpe ditt prosjekt på vegen til innovasjonsmidler, Skattefunn, og administrativ prosjektgjennomføring.
 Vi kan hjelpe ditt prosjekt med ny teknologi, digitalisering og KI, samt prosjektleiing og gjennomføring.
 Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for 
-	inleiiande samtale om ditt prosjekt.
+	inledende samtale om ditt prosjekt.
 
 
