@@ -2,13 +2,12 @@
 
 -------------------------------------------------------------------
 
-## Prosjektadministrasjon og -funding:
-Vi kan hjelpe ditt innovasjonsprosjekt.
-For eigne prosjekt har __neoRL.net__ nådd 100% funding for sine autonomiprosjekt;
-	vi ønsker nå hjelpe andre selskap med innovasjonsstøtte og prosjektgjennomføring.
-I 2024 står vi hittil ansvarlig for over __20MNOK__ i soft funding til ein av våre kundar,
+## Prosjektadministrasjon og funding:
+Vi ønsker hjelpe deg oppnå bedre innovasjonsstøtte og med prosjektgjennomføring.
+For eigne prosjekt har __neoRL.net__ nådd 100% funding for sine autonomiprosjekt.
+I 2024 står vi videre ansvarlig for over __20MNOK__ i soft funding til ein av våre kundar,
 	ei tjeneste vi også byr deg som framtidig R&D partner.
-Vi kan hjelpe med utforming av prosjektbeskriving; budsjett og søknad om soft funding; samt teknisk bistand til utfordrande teknologi.
+Vi kan hjelpe med utforming av prosjektbeskriving; budsjett og søknad om soft funding; samt, teknisk bistand til utfordrande teknologi.
 Berre i fjor bevilga Innovasjon Norge over 7MRD til Norske innovasjonsprosjekt, med melding om __dobling i 2024__:
 _store sjanser for støtte_ for ditt innovasjonsprosjekt – om prosjekt og søknad er utforma rett.
 
