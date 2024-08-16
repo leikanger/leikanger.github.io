@@ -18,7 +18,8 @@ La oss hjelpe deg utforme og gjennomføre din teknologiinnovasjon;
 
 ## Tilbud om bistand
 Vi kan hjelpe ditt prosjekt på vegen til innovasjonsmidler, Skattefunn, og administrativ prosjektgjennomføring.
-Vi kan hjelpe ditt prosjekt med ny teknologi, digitalisering og KI, og teknologigjennomføring 
-Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for ein samtale om innovajsonsprosjekt.
+Vi kan hjelpe ditt prosjekt med ny teknologi, digitalisering og KI, samt prosjektleiing og gjennomføring.
+Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for 
+	inleiiande samtale om ditt prosjekt.
 
 
