@@ -13,9 +13,9 @@ _store sjanser for støtte_ for ditt innovasjonsprosjekt – om prosjekt og søk
 
 Utover Innovasjon Norge finnes flere støttekilder for innovative R&D prosjekt.
 Avhengig av firmaets størrelse eller prosjektets innovasjonsgrad kan ditt prosjekt få opp til **80% støttegrad** i soft funding.
-Vi hjelper navigere statsstøttedirektivet også for andre mulige støttekilder som Forskningsådet, Skattefunn,
+Vi hjelper navigere statsstøttedirektivet for mulige støttekilder som Innovasjon Norge, NFR, Skattefunn
 	og Horizon Europe.
-Ta kontakt for innledende samtale.
+Ring for å høre meir om kva som er mulig for ditt prosjekt.
 	
 ## Teknologi og digitalisering:
 Flere av våre ansatte har bakgrunn fra teknisk kybernetikk og/eller KI, derav to med doktograd i digitalisering og
