@@ -24,8 +24,9 @@ Våre spesialfelt involverer programmering og utforming av linux/unix system for
 Vi skriv flytande i programmeringsspråka **C++, Python, Julia, Rust, Matlab**, samt utvikling i **Docker** og **ROS**. 
 Våre ansatte har erfaring med middelware og containerization, KI, skreddersøm av GPT/LLM, digital signalbehandling, nettverks- og sanntidsprogrammering.
 
-Kort oppsummert kan vi hjelpe ditt prosjekt å kvalifisere for soft funding, samt bistå med gjennomføring og
-utvikle ny teknologi for å la ditt FoU-løp utløyse innovasjonsmidlar.
+Kort oppsummert kan vi hjelpe ditt prosjekt kvalifisere for soft funding, 
+	bistå med prosjektgjennomføring og ny teknologi, 
+	samt med å utvikle den mest krevende teknologien som kvalifiserer ditt prosjekt for innovasjonsmidler.
 Ring vår [R&D manager](./RnD_manager.md) for korleis __neoRL.net__ R&D Services kan hjelpe ditt prosjekt med
-prosjektuvikling, soft funding, gjennomføring, samt utvikling av skreddersydd teknologi for ditt prosjekt.
+	prosjektuvikling, soft funding, gjennomføring, samt utvikling av skreddersydd teknologi for dine behov.
 
