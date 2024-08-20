@@ -27,6 +27,5 @@ Våre ansatte har erfaring med middelware og containerization, KI, skreddersøm 
 Kort oppsummert kan vi hjelpe ditt prosjekt kvalifisere for soft funding, 
 	bistå med prosjektgjennomføring og ny teknologi, 
 	samt med å utvikle teknologi som gjør prosjektet tilstekkelig nyskapende for innovasjonsmidler.
-Ring vår [R&D manager](./RnD_manager.md) for korleis __neoRL.net__ R&D Services kan hjelpe ditt prosjekt med
-	prosjektuvikling, soft funding, gjennomføring, samt utvikling av skreddersydd teknologi for dine behov.
+Ring vår [R&D manager](./RnD_manager.md) for korleis __neoRL.net__ R&D Services kan hjelpe ditt prosjekt. 
 
