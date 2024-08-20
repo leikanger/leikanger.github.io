@@ -19,10 +19,10 @@ eller innledende samtale per telefon **400 40 814**.
 
 ### 2024 --->  --- CAO @ neoRL.net AS
   Chief Autonomy Officer for neoRL.net, with prime responsibility for our autonomy stack and neoRL R&D sevices. 
-  Great records for securing soft funding for [Hyke](https://hyke.no), [NORCE](https://www.norceresearch.no/en/drones-and-autonomous-systems-uav), and for internal neoRL projects.
+  Great records for securing soft funding for [Hyke](https://hyke.no), NORCE, and for internal neoRL projects.
 
 ### 2023 - 2024  --- Head of R&D @ Hydrolift Smart City Ferries AS
-  Hyke develops autonomous passenger shuttles, utilizing waterways for urban transit.
+  Hydrolift Smart City Ferries develops autonomous passenger shuttles, utilizing waterways for urban transit.
   Head of R&D and project manager for autonomy projects and ventures involving digitalization of situational awareness. 
 
 ### 2017 - 2022  --- PhD in Computer Science: neoRL autonomy.
