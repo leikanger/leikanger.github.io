@@ -31,9 +31,9 @@ eller innledende samtale per telefon **400 40 814**.
   _First half of 2020: Academic visitor with Richard Sutton._
   
 ### 2012 - 2016  --- R&D Engineer in the industry
-  - 2012 -- R&D Engineer, Ultrasound Imaging, Archer
-  - 2014 -- Senior Software Developer, Rolls-Royce Maritime  
   - 2015 -- Head of R&D, Signal Processing, BIT
+  - 2014 -- Senior Software Developer, Rolls-Royce Maritime  
+  - 2012 -- R&D Engineer, Ultrasound Imaging, Archer
   
 ### 2012 --- Engineering Cybernetics: Biomedical Robotics, NTNU 
     
