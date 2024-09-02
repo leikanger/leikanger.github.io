@@ -3,10 +3,10 @@
 -------------------------------------------------------------------
 
 ## R&D prosjektadministrasjon og -funding:
-Vi hjelper med prosjektutvikling, søknader for innovasjonsstøtte og bedre prosjektgjennomføring.
+Vi hjelper nå andre med prosjektutvikling, søknader for innovasjonsstøtte og bedre prosjektgjennomføring.
 For eigne prosjekt har __neoRL.net__ nådd 100% funding for sine autonomiprosjekt.
 I 2024 står vi videre ansvarlig for over __20MNOK__ i soft funding til ein av våre kundar.
-Vi kan hjelpe med: prosjektbeskrivelse, 
+Vi kan hjelpe deg med prosjektbeskrivelse, 
 		budsjett og søknad om soft funding, 
 		samt teknisk bistand og med kompleks teknologi.
 
