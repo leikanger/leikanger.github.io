@@ -13,8 +13,8 @@ Vi ønsker å hjelpe dere med innovative R&D prosjekt, med søknadsprosessen så
 Utforming av prosjektbeskrivelse, planlegging av arbeidpakkar og budsjett, samt innsending av søknad:
 	vi har gode er faringer med **Innovasjon Norge**, Forskningsrådet, og **Horizon Europe**.
 Gjennom _Skattefunn_ kan dere videre få skattelette (19% av prosjektkost) også for påbegynte prosjekt.
-La oss hjelpe deg utforme og gjennomføre din prosjektsøknad.
-La oss hjelpe dere navigere staststøtteregulativet og kvalifisere for soft funding!
+Vi kan hjelpe med å utforme og skive prosjektsøknader for innovative R&D prosjekt.
+La oss hjelpe deg navigere statstøttedirektivet – og kvalifisere *ditt* prosjekt for soft funding.
 
 ## Tilbud om bistand
 Vi kan hjelpe ditt prosjekt på vegen til innovasjonsmidler, Skattefunn, og administrativ prosjektgjennomføring.
