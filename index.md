@@ -17,7 +17,7 @@ Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](
 ## Meir informasjon
 Vi kan hjelpe ditt prosjekt lykkes, både med tanke på søknadsprosessen så vel som teknisk gjennomføring.
 Utforming av prosjektbeskrivelse, planlegging av arbeidpakkar og budsjett, samt innsending av søknad:
-	vi har gode er faringer med **Innovasjon Norge**, Forskningsrådet, og **Horizon Europe**.
+	vi har gode erfaringer med **Innovasjon Norge**, Forskningsrådet, og **Horizon Europe**.
 Gjennom _Skattefunn_ kan dere videre få skattelette (19% av prosjektkost) også for påbegynte prosjekt.
 Vi kan bidra med å utforme og skive prosjektsøknader for innovative R&D prosjekt.
 La oss hjelpe deg navigere statstøttedirektivet – og kvalifisere *ditt* prosjekt for soft funding.
