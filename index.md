@@ -6,9 +6,9 @@
 Innovasjonsselskapet __neoRL.net AS__ starta i 2022 etter levert doktorgrad i computer science / teknologi for autonom navigasjon.
 Støtta av Innovasjon Norge fra dag en, utviklar vi distribuerte autonomialgoritmar for roboter og maritim autonomi.
 Nå hjelper vi andre oppnå støtte til R&D innovasjon; 
-	så langt i 2024 har vi hjulpet kunder til over 20 MNOK godkjendt støttebeløp for innovative FoU-prosjekt.
+	så langt i 2024 har vi hjulpet kunder med prosjektutforming og søknader for titalls millioner utbetalt støtte.
 
-## Tilbud om bistand.
+## Vi kan hjelpe deg.
 Vi kan hjelpe ditt prosjekt på vegen til innovasjonsmidler, Skattefunn, og administrativ prosjektgjennomføring.
 Vi kan hjelpe med teknologiutvikling, digitalisering og KI, samt prosjektleiing og gjennomføring.
 Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for 
