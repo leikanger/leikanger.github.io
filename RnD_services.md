@@ -3,9 +3,9 @@
 -------------------------------------------------------------------
 
 ## R&D prosjektadministrasjon og -funding:
-Vi hjelper nå andre med prosjektutvikling, søknader for innovasjonsstøtte og bedre prosjektgjennomføring.
+Vi hjelper nå andre med prosjektutvikling, søknader for innovasjonsstøtte og betre prosjektgjennomføring.
 For eigne prosjekt har __neoRL.net__ nådd 100% funding for sine autonomiprosjekt.
-I 2024 står vi videre ansvarlig for over __20MNOK__ i soft funding til ein av våre kundar.
+I 2024 står vi vidare ansvarleg for over __20MNOK__ i soft funding til ein av våre kundar.
 Vi kan hjelpe deg med prosjektbeskrivelse, 
 		budsjett og søknad om soft funding, 
 		samt teknisk bistand og med kompleks teknologi.
@@ -16,14 +16,14 @@ Vi hjelper navigere statsstøttedirektivet for mulige støttekilder som Innovasj
 Ta kontakt for å høre meir om kva som er mulig for ditt prosjekt.
 	
 ## Teknologi og digitalisering:
-Flere av våre ansatte har bakgrunn fra teknisk kybernetikk og/eller KI, derav to med doktograd i digitalisering og
+Fleire av våre ansatte har bakgrunn fra teknisk kybernetikk og/eller KI, derav to med doktograd i digitalisering og
 autonomi. Vi kan hjelpe til med teknisk gjennomføring så vel som prosjektutforming og soft funding. 
 Våre spesialfelt involverer programmering og utforming av linux/unix system for middleware eller bruk av KI.
 Vi skriv flytande i programmeringsspråka **Rust, Julia, C++**, *Python*, Matlab, samt utvikling for *Docker* og *ROS*. 
-Vi hjelper skape eller utvikle teknologi med moderne metoder og høg standard.
+Vi hjelper skape eller utvikle teknologi med moderne metodar og høg standard.
 
 Kort oppsummert kan vi hjelpe ditt prosjekt kvalifisere for soft funding, 
 	bistå med prosjektgjennomføring og ny teknologi, 
-	samt med å utvikle teknologi som gjør prosjektet tilstekkelig nyskapende for innovasjonsmidler.
+	samt med å utvikle teknologi som gjør prosjektet tilstrekkeleg nyskapande for innovasjonsmidlar.
 Ring vår [R&D manager](./RnD_manager.md) for korleis __neoRL.net__ R&D Services kan hjelpe ditt prosjekt. 
 
