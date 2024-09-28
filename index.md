@@ -14,7 +14,7 @@ La oss bidra deg navigere statstøttedirektivet – og kvalifisere *ditt* prosje
 Vi kan hjelpe med å utforme og skive prosjektsøknader for innovative [R&D prosjekt](RnD_services.md).
 	
 Med inngående kunnskap og interesse for teknologi og **programmering** higer vi etter å bidra på spennende prosjekt.
-Programmering i Rust, Julia, Python, C++, eller for Docker med ROS: vi elsker å skape vakre løsninger.
+Programmering i Rust, Julia, Python, C++, eller for Docker eller ROS: vi elsker å skape vakre løsninger.
 Vakker kode er stabil og lesbar kode; vi har høg standard på alt vi leverer.
 
 
