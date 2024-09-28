@@ -10,20 +10,20 @@ Nå hjelper vi andre oppnå støtte til R&D innovasjon;
 
 ## Vi kan hjelpe deg.
 Vi kan hjelpe ditt prosjekt på vegen til **innovasjonsmidler**, Skattefunn, og administrativ prosjektgjennomføring.
-Vi kan hjelpe med teknologiutvikling, digitalisering og KI, samt prosjektleiing og gjennomføring.
-Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for 
-	inledende samtale om ditt prosjekt.
+La oss bidra deg navigere statstøttedirektivet – og kvalifisere *ditt* prosjekt for soft funding.
+Vi kan hjelpe med å utforme og skive prosjektsøknader for innovative [R&D prosjekt](RnD_services.md).
 	
 Med inngående kunnskap og interesse for teknologi og **programmering** higer vi etter å bidra på spennende prosjekt.
 Programmering i Rust, Julia, Python, C++, eller for Docker med ROS: vi elsker å skape vakre løsninger.
-Stabil og lesbar kode er vakkert, og vi har høg standard på alt vi leverer fra oss.
+Vakker kode er stabil og lesbar kode; vi har høg standard på alt vi leverer fra oss.
 
 
 ## Meir informasjon
 Vi kan hjelpe ditt prosjekt lykkes, både med tanke på søknadsprosessen så vel som teknisk gjennomføring.
-Utforming av prosjektbeskrivelse, planlegging av arbeidpakkar og budsjett, samt innsending av søknad:
-	vi har gode erfaringer med **Innovasjon Norge**, Forskningsrådet, og **Horizon Europe**.
-Gjennom _Skattefunn_ kan dere videre få skattelette (19% av prosjektkost) også for påbegynte prosjekt.
-Vi kan bidra med å utforme og skive prosjektsøknader for innovative R&D prosjekt.
-La oss hjelpe deg navigere statstøttedirektivet – og kvalifisere *ditt* prosjekt for soft funding.
-
+Utforming av prosjektbeskrivelse, planlegging av arbeidpakkar og budsjett, samt innsending av søknad.
+Vi har gode erfaringer med **Innovasjon Norge**, Forskningsrådet, og **Horizon Europe**.
+Hjelp til testing av legacy code, så vel som programmering av rein kode i moderne spåk.
+Selv om vi anbefaler containerization og utvikling i Unix miljø, helst i moderne språk som **Rus**t, Julia eller C++, 
+	kjenner vi vår digitale historie godt.
+Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for 
+	inledende samtale om ditt prosjekt.
