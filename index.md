@@ -13,6 +13,11 @@ Vi kan hjelpe ditt prosjekt på vegen til innovasjonsmidler, Skattefunn, og admi
 Vi kan hjelpe med teknologiutvikling, digitalisering og KI, samt prosjektleiing og gjennomføring.
 Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for 
 	inledende samtale om ditt prosjekt.
+	
+Med inngående kunnskap og interesse for teknologi og programmering higer vi etter å bidra på spennende prosjekt.
+Programmering i Rust, Julia, Python, C++, eller for Docker med ROS: vi elsker å skape vakre løsninger.
+Stabil og lesbar kode er vakkert, og vi har høg standard på alt vi leverer fra oss.
+
 
 ## Meir informasjon
 Vi kan hjelpe ditt prosjekt lykkes, både med tanke på søknadsprosessen så vel som teknisk gjennomføring.
