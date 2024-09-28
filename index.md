@@ -11,7 +11,7 @@ Nå hjelper vi andre oppnå støtte til R&D innovasjon;
 ## Vi kan hjelpe deg.
 Vi kan hjelpe ditt prosjekt på vegen til **innovasjonsmidler**, Skattefunn, og administrativ prosjektgjennomføring.
 La oss bidra deg navigere statstøttedirektivet – og kvalifisere *ditt* prosjekt for soft funding.
-Vi kan hjelpe med å utforme og skive prosjektsøknader for innovative [R&D prosjekt](RnD_services.md).
+Vi kan hjelpe med å utforme prosjektsøknader for innovative [R&D prosjekt](RnD_services.md).
 	
 Med inngående kunnskap og interesse for teknologi og **programmering** higer vi etter å bidra på spennende prosjekt.
 Programmering i Rust, Julia, Python, C++, eller for Docker eller ROS: vi elsker å skape vakre løsninger.
