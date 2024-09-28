@@ -15,7 +15,7 @@ Vi kan hjelpe med å utforme og skive prosjektsøknader for innovative [R&D pros
 	
 Med inngående kunnskap og interesse for teknologi og **programmering** higer vi etter å bidra på spennende prosjekt.
 Programmering i Rust, Julia, Python, C++, eller for Docker med ROS: vi elsker å skape vakre løsninger.
-Vakker kode er stabil og lesbar kode; vi har høg standard på alt vi leverer fra oss.
+Vakker kode er stabil og lesbar kode; vi har høg standard på alt vi leverer.
 
 
 ## Meir informasjon
