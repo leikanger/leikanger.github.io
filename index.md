@@ -9,12 +9,12 @@ Nå hjelper vi andre oppnå støtte til R&D innovasjon;
 	så langt i 2024 har vi hjulpet kunder med prosjektutforming og søknader for titalls millioner utbetalt støtte.
 
 ## Vi kan hjelpe deg.
-Vi kan hjelpe ditt prosjekt på vegen til innovasjonsmidler, Skattefunn, og administrativ prosjektgjennomføring.
+Vi kan hjelpe ditt prosjekt på vegen til **innovasjonsmidler**, Skattefunn, og administrativ prosjektgjennomføring.
 Vi kan hjelpe med teknologiutvikling, digitalisering og KI, samt prosjektleiing og gjennomføring.
 Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for 
 	inledende samtale om ditt prosjekt.
 	
-Med inngående kunnskap og interesse for teknologi og programmering higer vi etter å bidra på spennende prosjekt.
+Med inngående kunnskap og interesse for teknologi og **programmering** higer vi etter å bidra på spennende prosjekt.
 Programmering i Rust, Julia, Python, C++, eller for Docker med ROS: vi elsker å skape vakre løsninger.
 Stabil og lesbar kode er vakkert, og vi har høg standard på alt vi leverer fra oss.
 
