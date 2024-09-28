@@ -22,7 +22,7 @@ Vakker kode er stabil og lesbar kode; vi har høg standard på alt vi leverer fr
 Vi kan hjelpe ditt prosjekt lykkes, både med tanke på søknadsprosessen så vel som teknisk gjennomføring.
 Utforming av prosjektbeskrivelse, planlegging av arbeidpakkar og budsjett, samt innsending av søknad.
 Vi har gode erfaringer med **Innovasjon Norge**, Forskningsrådet, og **Horizon Europe**.
-Hjelp til testing av legacy code, så vel som programmering av rein kode i moderne spåk.
+Videre ønsker vi hjelpe met testing av legacy code, så vel som programmering av rein kode i moderne spåk.
 Selv om vi anbefaler containerization og utvikling i Unix miljø, helst i moderne språk som Rust, Julia eller C++, 
 	kjenner vi vår digitale historie godt.
 Les meir om våre [R&D services](RnD_services.md) eller ring vår [R&D manager](RnD_manager.md) for 
