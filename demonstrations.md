@@ -2,7 +2,7 @@
 
 -----------------------------------------------------
 
-## Real-time learning videos
+## Real-time learning demonstrations
 The following demonstrations are examples of autonomous navigation in the allocentric
 [WaterWorld](https://pygame-learning-environment.readthedocs.io/en/latest/user/games/waterworld.html) environment (not the simpler egocentric javascript-version);
     controlling acceleration in 2 directions, the agent is set to catch green entities while avoiding red.
