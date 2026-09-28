@@ -12,28 +12,12 @@ draft: true
 
 # Per R. Leikanger -- R&D Manager
 Innovatør bak neoRL-algoritma for sanntids interaksjonslæring for autonom navigasjon, med inngåande kjennskap til
-indre hyperteknologi, mekanismar bak LLM, styringssystem for robotikk, autonom navigasjon, samt prosjektleiingserfaring.
-Vår CAO får hovudansvaret for nye FoU-partnerar; ring Per RL om vi kan hjelpe ditt prosjekt: 
-[email](mailto:leikange@gmail.com) eller [LinkedIn](https://www.linkedin.com/in/per-leikanger), 
-eller innledende samtale per telefon **400 40 814**.
+indre hyperteknologi, mekanismar bak LLM, styringssystem for robotikk og autonom navigasjon, 
+med tilhørande prosjektleiingserfaring.
+Lang erfaring i \emph{Rust} og C++.
 
-### 2024 --->  --- CAO @ neoRL.net AS
-  Chief Autonomy Officer for neoRL.net, with prime responsibility for our autonomy stack and neoRL R&D sevices. 
-  Great records for securing soft funding for [Hyke](https://hyke.no), NORCE, and for internal neoRL projects.
+Per har hovudansvaret for nye FoU-partnerar; ring gjerne eller send mail for eller ring for å høre kva vi kan gjere for
+ditt prosjekt: 
+[email](mailto:leikange@gmail.com) eller [LinkedIn](https://www.linkedin.com/in/per-leikanger) for uforpliktande møte, 
+eller tlf. **400 40 814** for hyggelig samtale.
 
-### 2023 - 2024  --- Head of R&D @ Hydrolift Smart City Ferries AS
-  Hydrolift Smart City Ferries develops autonomous passenger shuttles, utilizing waterways for urban transit.
-  Head of R&D and project manager for autonomy projects and ventures involving digitalization of situational awareness. 
-
-### 2017 - 2022  --- PhD in Computer Science: neoRL autonomy.
-  Real-time learning algorithms for autonomous navigation. 
-  Research and development of a distributed algorithm for Reinforcement Learning for Euclidean spaces.
-  _First half of 2020: Academic visitor with Richard Sutton._
-  
-### 2012 - 2016  --- R&D Engineer in the industry
-  - 2015 -- Head of R&D, Signal Processing, BIT
-  - 2014 -- Senior Software Developer, Rolls-Royce Maritime  
-  - 2012 -- R&D Engineer, Ultrasound Imaging, Archer
-  
-### 2012 --- Engineering Cybernetics: Biomedical Robotics, NTNU 
-    
