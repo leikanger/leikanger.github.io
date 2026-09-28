@@ -6,6 +6,7 @@
 Innovasjonsselskapet __neoRL.net AS__ er eit deep-tech AI-seskap med intensjon om å bli forskningsinstitutt for
 Norskutvikla AI. 
  __neoRL.net AS__ starta i 2022 etter levert doktorgrad i computer science ved UiT/NTNU/UIA/HVO og samarbeid med RLAI group v/ Richard Sutton.
+
 Vi hjelper andre med teknologiutvikling og prosjekleiing, og tilbyr konsult i digitale teknologier – med fokus på trygg
 og dokumenterbar effektiv algoritmeutvikling med eller utan bruk av AI.
 Vi bistår også for prosjektplanlegging og støtte til R&D innovasjon: bare i 2024 har vi hjulpet kunde med invilga søknader til en verdi over 20 MNOK utbetalt.
