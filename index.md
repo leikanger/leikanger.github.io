@@ -11,6 +11,11 @@ Vi hjelper andre med teknologiutvikling og prosjekleiing, og tilbyr konsult i di
 og dokumenterbar effektiv algoritmeutvikling med eller utan bruk av AI.
 Vi bistår også for prosjektplanlegging og støtte til R&D innovasjon: bare i 2024 har vi hjulpet kunde med invilga søknader til en verdi over 20 MNOK utbetalt.
 
+Motivasjonen bak foretaket er å opprettholde eit Norsk AI-initiativ med forsking og algoritmeutvikling med Norske
+verdier. Absolutt alt av inntekter og overskudd går inn i forsking og vidareutvikling av Norsk høgteknologi og AI
+suverenitet. 
+Vi er interessert i å samarbeide med Norske forskningsinteresser på kunstig intelligens og nevrovitenskap.
+
 ## Vi kan hjelpe deg.
 Vi kan hjelpe ditt prosjekt på vegen til **innovasjonsmidler**, Skattefunn, og administrativ prosjektgjennomføring, i
 tillegg til prosjektgjennomføring – med særlig fokus på signalbehandling, algoritmeutvikling, og trygg og sikker Rust.
