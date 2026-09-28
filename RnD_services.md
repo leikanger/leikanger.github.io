@@ -1,9 +1,11 @@
 [ [About](index.md) ]     [ [R&D services](RnD_services.md) ]     [ [Contact](./RnD_manager.md) ]
 
 -------------------------------------------------------------------
+# R&D Services
+Vi kan gjelpe med alle former for R&D digitaliseringsprosjekt og algoritmeutvikling.
 Kort oppsummert kan vi hjelpe ditt prosjekt kvalifisere for soft funding, 
 	bistå med prosjektgjennomføring og ny teknologi, 
-	samt med å utvikle teknologi som gjør prosjektet tilstrekkeleg nyskapande for innovasjonsmidlar.
+    samt utvikle spennende ny teknologi i team og bidra for eit godt og kunnskapsrikt innovasjonmiljø.
 For den sikkerhetsbeviste har vi erfaring med å sette opp lokal AI som beholder data på firmaets servere.
 
 ## Teknologiutvikling og digitalisering:
