@@ -14,7 +14,7 @@ draft: true
 Innovatør bak neoRL-algoritma for sanntids interaksjonslæring for autonom navigasjon, med inngåande kjennskap til
 indre hyperteknologi, mekanismar bak LLM, styringssystem for robotikk og autonom navigasjon, 
 med tilhørande prosjektleiingserfaring.
-Lang erfaring i \emph{Rust} og C++.
+Lang erfaring i __Rust__ og C++.
 
 Per har hovudansvaret for nye FoU-partnerar; ring gjerne eller send mail for eller ring for å høre kva vi kan gjere for
 ditt prosjekt: 
